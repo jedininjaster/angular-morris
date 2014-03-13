@@ -17,4 +17,7 @@ angular.module('angularMorrisDemo', ['morris']).run(['$rootScope',
 		labels: ['Value']
 	}
 	
+	//TODO: add all chart examples
+	//TODO: add watchers
+
 }])
